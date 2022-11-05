@@ -1,0 +1,36 @@
+ body{background-color: #e4e3e3;
+font-family: 'Kanit', sans-serif;
+color: #353535;
+}
+
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.profile{
+    
+}
+
+
+.foto{
+    /*border: 5px double rgb(255, 255, 255)}*/
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgba(158 219 255 / 96%);   
+    border-radius: 50%;
+    width: 200px;
+   margin: 30px;
+   box-shadow: 2px 1px 10px rgb(133, 133, 230);
+}
+
+h1 {
+    margin-bottom: 0px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: -1px;
+}
+
+h2{
+    margin-top: 0px;
+    margin-left: 0px;
+}

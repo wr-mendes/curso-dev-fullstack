@@ -1,0 +1,9 @@
+body{background-image: url(); /* define um fundo para o site */
+background-repeat: no-repeat; /* a foto nao repete no site todo */
+/*background-position: 100% 10%;*/
+background-position: center center; /* centralize a foto no meio do site */
+background-size: cover; /* expande a imagem para todo o background */
+background-attachment: fixed; /* deixa o background parado ( sem mover ) */
+}
+
+p {color: #353535;}

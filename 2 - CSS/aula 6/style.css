@@ -1,0 +1,16 @@
+ body{background-color: #e4e3e3;
+}
+
+
+p {color: #353535;}
+
+.foto{
+    /*border: 5px double rgb(255, 255, 255)}*/
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgba(158 219 255 / 96%);   
+    border-radius: 50%;
+    width: 200px;
+   margin: 30px;
+   padding: 2px;
+}
